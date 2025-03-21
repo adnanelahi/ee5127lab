@@ -7,7 +7,7 @@ import json
 import random
 import paho.mqtt.client as mqtt
 
-# Azure IoT Hub details (UPDATE THESE)
+# Azure IoT Hub details 
 iot_hub_name = "ee5127iothub"  # Replace with your IoT Hub name
 device_id = "feather-sense"      # Replace with your device ID
 device_key = "2xrfxWY6jut7OCivCrJ628O2itUcAxZQ2M/jokt83rE="  # Replace with your Primary Key
